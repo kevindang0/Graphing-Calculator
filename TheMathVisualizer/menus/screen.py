@@ -12,5 +12,5 @@ class Screen():
     def clearscreen(self):
         self.screen.fill((255,255,255))
 
-
+#an unused prototype of the screen class, i found that it wasnt necessary
 

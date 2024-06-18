@@ -2,8 +2,8 @@ from customtkinter import *
 
 WIDTH, HEIGHT = 800, 600
 
-RESOLUTION = 16 #values per pixel
-
+RESOLUTION = 1 #values per pixel
+#store all the constants in a file so that they can be used in other files
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
 GREEN = (0, 255, 0)

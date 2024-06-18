@@ -4,6 +4,7 @@ import pygame as pg
 import time as t
 from turtle import *
 
+#an used prototype of turtle fractals
 class TurtleFractal():
 
     def __init__(self):
